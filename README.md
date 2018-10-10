@@ -9,5 +9,9 @@ The collection is based on a SmartApp to send a httpGet to a php script hosted o
 <p>  
 The php script is running on a NAS in my case, but it could be hosted by a raspberry pi as long as the storage capability is enough.
 <p>
+  
+Hope you like it!
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/philippeportesppo)
+
 General architecture:
 <img src=https://github.com/philippeportesppo/Dump_Temperature_Battery_Level_SmartThings/blob/master/DumpMySQLSensors.png >
